@@ -1,4 +1,3 @@
-//import AsyncStorage from '@react-native-community/async-storage';
 import { AsyncStorage } from 'react-native';
 
 import Data from '../Data';
