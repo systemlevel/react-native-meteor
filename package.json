@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/3WisePixels/react-native-meteor.git"
+    "url": "git+https://github.com/inProgress-team/react-native-meteor.git"
   },
   "keywords": [
     "react-component",
@@ -29,9 +29,9 @@
   "author": "3WP x Théo Mathieu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/3WisePixels/react-native-meteor/issues"
+    "url": "https://github.com/inProgress-team/react-native-meteor/issues"
   },
-  "homepage": "https://github.com/3WisePixels/react-native-meteor#readme",
+  "homepage": "https://github.com/inProgress-team/react-native-meteor#readme",
   "dependencies": {
     "base-64": "^0.1.0",
     "crypto-js": "^3.1.6",
